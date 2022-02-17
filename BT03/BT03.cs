@@ -59,7 +59,7 @@ namespace BT03
             //String text02 = Console.ReadLine();
 
             ////tiến hành so sánh chuỗi
-            //var verify = BCrypt.Net.BCrypt.Verify(text01, text02);
+            //bool verify = BCrypt.Net.BCrypt.Verify(text01, text02);
             //if (verify)
             //{
             //    Console.WriteLine("Chuoi trung khop");
